@@ -19,7 +19,8 @@ list_of_files = ['.github/workflows/.gitkeep',
                  "params.yaml",
                  "requirements.txt",
                  "setup.py",
-                 "research/trials.ipynb" # we need to experiment so i created research file
+                 "research/trials.ipynb", # we need to experiment so i created research file
+                 "templates/index.html"
 
                  ]
 
